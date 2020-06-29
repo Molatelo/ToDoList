@@ -1,11 +1,11 @@
 {
   "to-do":[
     {
-      "id": 1,
-      "title": "Learn Ionic",
-      "description": "Learn to create web applications using Ionic",
-      "status": "In Progress",
-      "dueDate": "10/07/2020"
+      "Id": 1,
+      "Title": "Learn Ionic",
+      "Description": "Learn to create web applications using Ionic",
+      "Status": "In Progress",
+      "DueDate": "10/07/2020"
     }
   ]
 }
