@@ -1,0 +1,33 @@
+{
+  "to-do":[
+    {
+      "Id": 1,
+      "Title": "Learn Ionic",
+      "Description": "Learn to create web applications using Ionic",
+      "Status": "inProgress",
+      "DueDate": "10/07/2020"
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "Code": "new",
+      "Name": "New"
+    },
+    {
+      "id": 2,
+      "Code": "inProgress",
+      "Name": "In Progress"
+    },
+    {
+      "id": 3,
+      "Code": "blocked",
+      "Name": "Blocked"
+    },
+    {
+      "id": 4,
+      "Code": "completed",
+      "Name": "Completed"
+    }
+  ]
+}
