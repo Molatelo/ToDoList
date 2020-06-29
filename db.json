@@ -1,33 +1,11 @@
 {
-  "toDo":[
+  "to-do":[
     {
       "id": 1,
       "title": "Learn Ionic",
       "description": "Learn to create web applications using Ionic",
-      "status": "inProgress",
+      "status": "In Progress",
       "dueDate": "10/07/2020"
-    }
-  ],
-  "status": [
-    {
-      "id": 1,
-      "Code": "new",
-      "Name": "New"
-    },
-    {
-      "id": 2,
-      "Code": "inProgress",
-      "Name": "In Progress"
-    },
-    {
-      "id": 3,
-      "Code": "blocked",
-      "Name": "Blocked"
-    },
-    {
-      "id": 4,
-      "Code": "completed",
-      "Name": "Completed"
     }
   ]
 }
