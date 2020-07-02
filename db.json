@@ -3,9 +3,37 @@
     {
       "id": 1,
       "Title": "Learn Ionic",
-      "Description": "Learn to create web applications using Ionic",
+      "Description": "Learn to create mobile and web applications using Ionic",
       "Status": "In Progress",
-      "DueDate": "11/07/2020"
+      "DueDate": "24/07/2020"
+    },
+     {
+      "id": 2,
+      "Title": "Learn NodeJs",
+      "Description": "Learn to create RESTFUL API service using NodeJs",
+      "Status": "In Progress",
+      "DueDate": "31/07/2020"
+    },
+    {
+      "id": 3,
+      "Title": "Learn React",
+      "Description": "Learn to create mobile and web applictions using React Native and ReactJs",
+      "Status": "In Progress",
+      "DueDate": "7/08/2020"
+    },
+     {
+      "id": 4,
+      "Title": "Learn to Create Restful API using Python",
+      "Description": "Learn to create RESTFUL API service using Python",
+      "Status": "New",
+      "DueDate": "21/08/2020"
+    },
+    {
+      "id": 5,
+      "Title": "Advance Angular Skills",
+      "Description": "Learn more advance angular topics and improve angular skills",
+      "Status": "In Progress",
+      "DueDate": "7/08/2020"
     }
   ]
 }
